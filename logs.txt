@@ -1,0 +1,30 @@
+done
+{
+	"./.editorconfig",
+	"./.env",
+	"./.env.example",
+	"./.gitattributes",
+	"./.gitignore",
+	"./artisan",
+	"./composer.json",
+	"./package.json",
+	"./phpunit.xml",
+	"./README.md",
+	"./vite.config.js",
+
+	"./app",
+	"./boostrap",
+	"./config",
+	"./database",
+	"./public",
+	"./resources",
+	"./routes",
+	"./storage",
+	"./tests"
+}
+
+notyet
+{
+	"./composer.lock",
+	"./vendor"
+}
